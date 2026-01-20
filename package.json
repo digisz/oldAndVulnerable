@@ -23,7 +23,7 @@
     "debug": "2.6.9",
     "glob": "5.0.15",
     "yargs": "6.6.0",
-    "mongoose": "4.13.0",
+    "mongoose": "4.13.0^",
     "body-parser": "1.15.2",
     "cors": "2.8.4",
     "dotenv": "4.0.0"
